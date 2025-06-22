@@ -1,101 +1,103 @@
-<h1 align="center">Hey, I'm Esha 👋</h1>
-<h3 align="center">Research-Oriented Learner |Creative Technophile</h3>
+<h1 align="center">Hi there, I'm Esha 👩‍💻</h1>
+<h3 align="center">First-Year CS Student | Research-Oriented | Creator at Heart</h3>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=5D4BFF&center=true&vCenter=true&width=450&lines=Building+Sandesh+%E2%9C%A8;C+is+Powerful%2C+Not+Scary.;Web+%7C+CLI+%7C+Poetry+in+Code;" />
+</p>
 
 ---
 
-🌻 I’m someone who finds joy in exploring how code can build not just software, but systems, stories, and impact.  
-Currently in my first year, I’m building a strong foundation in core programming (C/C++), system-level thinking, and meaningful digital projects.
+## 👩‍🏫 About Me
+
+- 🎓 I'm currently pursuing a Bachelor’s degree in **Computer Science with AI/ML**
+- 🔧 I'm an **open-source contributor** (SWOC '24 – *Tiffin Fusion*)
+- ⚙️ I enjoy building CLI tools, elegant websites, and small research-inspired projects
+- 🧠 Love exploring **system-level concepts**, memory mapping, and compiler behavior
+- ✨ Strong believer in learning through writing, metaphors, and real-world analogies
 
 ---
 
-## 🔧 Currently Working On
+## 🧰 Tech Stack
 
-### 📨 Sandesh – A CLI-Based Secure Communication Simulator (in C)  
-A lightweight, terminal-based tool simulating a secure message transmission system  
-- Focuses on **string manipulation**, **pointer logic**, **user authentication**, and **basic encryption simulation**  
-- Designed with defence-inspired use cases in mind  
-- Inspired by systems that balance **low memory** with **high reliability**
-
----
-
-## 📊 Tech Stack & Proficiency
-
-| Technology     | Comfort Level        | Visual Bar |
-|----------------|----------------------|-------------|
-| C              | ★★★★★★★★☆☆ (8/10)   | ▓▓▓▓▓▓▓▓░░   |
-| C++            | ★★★★★★★☆☆☆ (7/10)   | ▓▓▓▓▓▓▓░░░   |
-| Java           | ★★★★★★☆☆☆☆ (6/10)   | ▓▓▓▓▓▓░░░░   |
-| Python         | ★★★★☆☆☆☆☆☆ (4/10)   | ▓▓▓░░░░░░░   |
-| HTML5/CSS3     | ★★★★★★★★☆☆ (8/10)   | ▓▓▓▓▓▓▓▓░░   |
-| JavaScript     | ★★★★☆☆☆☆☆☆ (4/10)   | ▓▓▓░░░░░░░   |
-| Bootstrap      | ★★★★★★★☆☆☆ (7/10)   | ▓▓▓▓▓▓▓░░░   |
-| Git & GitHub   | ★★★★★★★☆☆☆ (7/10)   | ▓▓▓▓▓▓▓░░░   |
-| VS Code        | ★★★★★★★★☆☆ (8/10)   | ▓▓▓▓▓▓▓▓░░   |
-
-> 🌱 Currently learning Python and JavaScript for backend, AI, and automation.  
-> ⚙️ Exploring low-level memory systems & secure communication design.
+<p>
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C++-00427E?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Bootstrap-7B11F9?style=for-the-badge&logo=bootstrap&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
+</p>
 
 ---
 
-## 🧪Projects I worked upon
+## 📈 Tech Proficiency Overview
 
-### 🌐 [Personal Portfolio + Blog Site (Esha)] 
-A creative blend of personal branding + blog insights  
-- Elegant, minimalist UI   
-- Tech used: **HTML, CSS, Bootstrap, JavaScript**  
-- Hosts technical reflections, projects, and career vision
+> Pie-bar styled progress representation (based on self-evaluation)
 
-### 📚 Children's Bookstore Website  
-A mini-project made with love and Bootstrap  
-- Dreamy design for young readers  
-- Mobile-responsive  
-- Vibrant palette and typography to mimic a storybook vibe
-
-### 🍽️ Restaurant Website  
-Responsive practice project  
-- Clean layout, interactive menus  
-- Custom CSS styling & layout control
+| Language/Tool | Proficiency | Visual |
+|---------------|-------------|--------|
+| C             | 85%         | ![C](https://progress-bar.dev/85/?title=C&width=250) |
+| C++           | 75%         | ![C++](https://progress-bar.dev/75/?title=C++&width=250) |
+| Java          | 60%         | ![Java](https://progress-bar.dev/60/?title=Java&width=250) |
+| Python        | 45%         | ![Python](https://progress-bar.dev/45/?title=Python&width=250) |
+| HTML/CSS      | 85%         | ![HTML](https://progress-bar.dev/85/?title=HTML/CSS&width=250) |
+| JavaScript    | 40%         | ![JS](https://progress-bar.dev/40/?title=JavaScript&width=250) |
+| Bootstrap     | 70%         | ![Bootstrap](https://progress-bar.dev/70/?title=Bootstrap&width=250) |
+| Git & GitHub  | 75%         | ![Git](https://progress-bar.dev/75/?title=Git%2FGitHub&width=250) |
 
 ---
 
-## ✍️ Blogs & Reflections
+## 💻 Open Source & Projects
 
-> I write not just code, but also context blogs that connect technical concepts with deeper learning.  
-> Whether it’s memory maps in C or finding beauty in brute force algorithms, I try and document what I explore.
+### 📨 Sandesh – CLI Messenger (In Progress)
+> Lightweight, secure-message simulation in terminal using **C**  
+> Simulates string parsing, authentication, and modular encryption logic
 
-🔜 Working on:
-- DRDO & Hybrid Memory Models
-- Portfolio Engineering for Beginners
-- “C Programming as a Mental Model”
+### 🥗 Tiffin Fusion – Contributor @ SWOC '24  
+> Open-source app connecting users with home-based food tiffin providers  
+> 🛠 Improved frontend flow and bug-fixes for responsiveness & layout
+
+### 🌐 Portfolio + Blog (Esha)
+> A dreamy site combining my personality, projects, and poetry  
+> Designed from scratch with **HTML, CSS, Bootstrap**, and a touch of JS magic
+
+### 📚 Children’s Bookstore Website  
+> Made with Bootstrap, poetic UI, and responsive layout
+
+### 🍴 Restaurant Website  
+> CSS & layout project exploring mobile-first design and clean content display
 
 ---
 
-## 🛰️ Vision
+## 📊 GitHub Stats
 
-To bridge **fundamental CS concepts** with **defence & research-oriented applications**.  
-My long-term goal is to contribute to systems that matter be it in **national defence**, **AI ethics**, or **human-first design**. I believe in working with humility, depth, and direction.
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=esha-bajaj&show_icons=true&theme=radical&hide_border=true" width="450"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=esha-bajaj&layout=compact&theme=radical&hide_border=true" width="350"/>
+</p>
 
 ---
 
-## 🛠️ Tools I Use
+## 📖 Fun Fact
 
-| Tool           | Purpose                      |
-|----------------|-------------------------------|
-| VS Code        | Daily coding environment       |
-| Git & GitHub   | Version control & collaboration |
-| GDB            | Debugging C/C++                |
-| Replit         | Rapid prototyping              |
-| Draw.io        | Mind maps & system design      |
+> I'm **research-oriented** by curiosity,  
+> enjoy teaching🌻  
+> and I believe system-level programming has its own kind of soul.
 
 ---
 
 ## 📬 Let’s Connect
 
-- 💼 [LinkedIn](https://linkedin.com/in/esha-bajaj)
-- 📩 Drop a message to collaborate on GitHub or LinkedIn!
+- [🌐 Portfolio & Blog](https://your-site-link.com)
+- [🔗 LinkedIn](https://linkedin.com/in/esha-bajaj)
+- 📩 Always happy to collaborate or share ideas!
 
 ---
 
-> _“Write clean code, but write cleaner intentions.”_  
-> _— Esha_
-
+> _"Write programs that don't just compile, but communicate."_  
+> — ✨ Esha
