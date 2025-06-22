@@ -1,5 +1,5 @@
 <h1 align="center">Hi there, I'm Esha 👩‍💻</h1>
-<h3 align="center">First-Year CS Student | Research-Oriented | Creator at Heart</h3>
+<h3 align="center">First-Year AI/ML Student | Research-Oriented | Creator at Heart</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=5D4BFF&center=true&vCenter=true&width=450&lines=Building+Sandesh+%E2%9C%A8;C+is+Powerful%2C+Not+Scary.;Web+%7C+CLI+%7C+Poetry+in+Code;" />
