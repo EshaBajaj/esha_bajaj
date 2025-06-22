@@ -93,8 +93,8 @@
 
 ## 📬 Let’s Connect
 
-- [🌐 Portfolio & Blog](https://your-site-link.com)
-- [🔗 LinkedIn](https://linkedin.com/in/esha-bajaj)
+- [🌐 Portfolio & Blog](https://lotusverge.netlify.app/)
+- [🔗 LinkedIn](https://www.linkedin.com/in/esha-bajaj-4a80b3307/)
 - 📩 Always happy to collaborate or share ideas!
 
 ---
