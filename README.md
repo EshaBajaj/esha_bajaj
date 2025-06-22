@@ -39,16 +39,16 @@
 
 > Pie-bar styled progress representation (based on self-evaluation)
 
-| Language/Tool | Proficiency | Visual |
-|---------------|-------------|--------|
-| C             | 85%         | ![C](https://progress-bar.dev/85/?title=C&width=250) |
-| C++           | 75%         | ![C++](https://progress-bar.dev/75/?title=C++&width=250) |
-| Java          | 60%         | ![Java](https://progress-bar.dev/60/?title=Java&width=250) |
-| Python        | 45%         | ![Python](https://progress-bar.dev/45/?title=Python&width=250) |
-| HTML/CSS      | 85%         | ![HTML](https://progress-bar.dev/85/?title=HTML/CSS&width=250) |
-| JavaScript    | 40%         | ![JS](https://progress-bar.dev/40/?title=JavaScript&width=250) |
-| Bootstrap     | 70%         | ![Bootstrap](https://progress-bar.dev/70/?title=Bootstrap&width=250) |
-| Git & GitHub  | 75%         | ![Git](https://progress-bar.dev/75/?title=Git%2FGitHub&width=250) |
+| Language/Tool | Proficiency |
+|---------------|-------------|
+| C             | 85%         | 
+| C++           | 75%         |
+| Java          | 60%         |
+| Python        | 45%         | 
+| HTML/CSS      | 85%         | 
+| JavaScript    | 40%         | 
+| Bootstrap     | 70%         | 
+| Git & GitHub  | 75%         | 
 
 ---
 
